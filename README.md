@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @medhadipti
-- 👀 I’m interested in software development.
+
 
 
 <!---
